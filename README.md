@@ -1,7 +1,8 @@
 # 👋 Oi, eu sou o Pedro Arthur (pxdroarth)
 
-💻 Desenvolvedor Full Stack | 🚀 Criador de soluções com **PHP (Laravel, Blade)**, **Node.js + Express**, **React + Tailwind**  
-🎯 Focado em entregar sistemas profissionais, escaláveis e com design premium.
+💻 Desenvolvedor Full Stack | 🚀 Especialista no mundo JS **JavaScript/TypeScript** com foco em **Node.js + Express**, **React + Tailwind**, **Vite**, **Vue**, **NestJS** e **Next.js**  
+🎯 Experiência também com **PHP (Laravel, Blade)** em projetos específicos  
+✨ Comprometido em entregar sistemas modernos, escaláveis e com design responsivo
 
 ---
 
