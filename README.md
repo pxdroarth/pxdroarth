@@ -1,10 +1,9 @@
 # 👋 Oi, eu sou o Pedro Arthur (pxdroarth)
 
-💻 Desenvolvedor Full Stack | 
-🚀 Especialista no mundo JS **JavaScript/TypeScript** com foco em **Node.js + Express**, **React + Tailwind**, **Vite**, **Vue**, **NestJS** e **Next.js**  
+💻 **Desenvolvedor Full Stack**  
+🚀 **Especialista em JavaScript/TypeScript** → foco em **Node.js + Express, React + Tailwind, Vite, Vue, NestJS e Next.js**  
 🎯 Experiência também com **PHP (Laravel, Blade)** em projetos específicos  
-✨ Comprometido em entregar sistemas modernos, escaláveis e com design responsivo
-
+✨ Comprometido em entregar sistemas **modernos, escaláveis e com design responsivo**
 ---
 
 ## 🚀 Sobre mim
